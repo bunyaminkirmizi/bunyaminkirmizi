@@ -1,7 +1,14 @@
+
 <h1>Hi there 👋</h1>
+
 <h4>I'm a ceng student 👨‍💻</h4>
 
 <a href="https://www.linkedin.com/in/bunyaminkirmizi/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+<a href="https://xkcd.com/2293/" target="_blank" rel="nofollow"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://imgs.xkcd.com/comics/rip_john_conway.gif"></a>
+
+</p>
+
 <!--
 **bunyaminkirmizi/bunyaminkirmizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
