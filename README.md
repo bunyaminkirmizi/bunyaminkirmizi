@@ -1,7 +1,7 @@
 
 <h1>Hi there 👋</h1>
 
-<h4>I'm a ceng student 👨‍💻</h4>
+<h4>I'm a Software Engineer👨‍💻</h4>
 
 <a href="https://www.linkedin.com/in/bunyaminkirmizi/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!--
